@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 GitHub Discussions
+    url: https://github.com/yourusername/tampermonkey-script-editor/discussions
+    about: Ask questions, share ideas, or get help
+  - name: 📖 Documentation
+    url: https://github.com/yourusername/tampermonkey-script-editor#readme
+    about: Check the README for usage instructions
+  - name: 🤖 AI Assistant Help
+    url: https://github.com/yourusername/tampermonkey-script-editor/discussions/categories/ai-assistant
+    about: Get help with AI Assistant features

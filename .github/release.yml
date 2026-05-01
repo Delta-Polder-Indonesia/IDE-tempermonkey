@@ -1,0 +1,34 @@
+changelog:
+  exclude:
+    labels:
+      - ignore-for-release
+    authors:
+      - octocat
+  categories:
+    - title: 🚀 Features
+      labels:
+        - enhancement
+        - feature
+    - title: 🐛 Bug Fixes
+      labels:
+        - bug
+        - fix
+    - title: 🤖 AI Improvements
+      labels:
+        - ai
+    - title: 🎨 UI/UX
+      labels:
+        - ui/ux
+    - title: ⚡ Performance
+      labels:
+        - performance
+    - title: 🔧 Maintenance
+      labels:
+        - chore
+        - dependencies
+    - title: 📚 Documentation
+      labels:
+        - documentation
+    - title: Other Changes
+      labels:
+        - "*"
