@@ -1,3 +1,5 @@
+![bintang toba](public/art/bintang-toba.png)
+
 # 🐵 Tampermonkey Script Editor
 
 > A professional, browser-based userscript editor inspired by the native Tampermonkey extension — with AI-powered assistance, real-time collaboration features, and a modern IDE experience.
@@ -8,7 +10,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.1.17-06B6D4?logo=tailwindcss)](https://tailwindcss.com)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.9.3-3178C6?logo=typescript)](https://www.typescriptlang.org)
 
-![Screenshot](https://via.placeholder.com/1200x700/1e1e1e/ffffff?text=Tampermonkey+Script+Editor)
+![Screenshot](public/art/2.png)
 
 ---
 
@@ -71,7 +73,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/tampermonkey-script-editor.git
+git clone https://github.com/Delta-Polder-Indonesia/IDE-tempermonkey.git
 cd tampermonkey-script-editor
 
 # Install dependencies
@@ -172,7 +174,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 ```bash
 # Fork and clone
-git clone https://github.com/yourusername/tampermonkey-script-editor.git
+git clone https://github.com/Delta-Polder-Indonesia/IDE-tempermonkey.git
 cd tampermonkey-script-editor
 
 # Install dependencies
@@ -208,7 +210,7 @@ This project is licensed under the [MIT License](LICENSE) — feel free to use, 
 
 ## 📧 Contact
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/tampermonkey-script-editor/issues)
+- **Issues**: [GitHub Issues](https://github.com/Delta-Polder-Indonesia/IDE-tempermonkey/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/yourusername/tampermonkey-script-editor/discussions)
 
 ---
